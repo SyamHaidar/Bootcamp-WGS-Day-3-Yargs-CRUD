@@ -1,0 +1,17 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "fol": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syam Haidar",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  }
+}
